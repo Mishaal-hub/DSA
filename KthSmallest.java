@@ -73,7 +73,5 @@ public class KthSmallestBST {
                 System.out.println("Kth smallest element: " + answer);
             }
         }
-
-        sc.close();
     }
 }
