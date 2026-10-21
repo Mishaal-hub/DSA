@@ -54,7 +54,5 @@ public class ValidateBST {
         } else {
             System.out.println("Not a Valid BST");
         }
-
-        sc.close();
     }
 }
