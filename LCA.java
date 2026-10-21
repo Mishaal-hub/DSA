@@ -79,7 +79,5 @@ public class LowestCommonAncestorBST {
                 System.out.println("Lowest Common Ancestor: " + lca.data);
             }
         }
-
-        sc.close();
     }
 }
